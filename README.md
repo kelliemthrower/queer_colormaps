@@ -1,2 +1,2 @@
 # queer_colormaps
-custom colormaps using gay flag colors!
+custom colormaps using gay flag colors in Python!
